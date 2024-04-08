@@ -7,3 +7,4 @@ keras
 seaborn
 jupyterlab
 statsmodels
+imbalanced-learn
