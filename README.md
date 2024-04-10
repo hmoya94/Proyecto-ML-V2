@@ -19,3 +19,5 @@ Una vez creado y activado el entorno virtual, instala las bibliotecas necesarias
 pip install -r requirements.txt
 
 Si quieres echar un vistazo a las bibliotecas que se van a instalar antes, visita el archivo requirements.txt ubicado en la raiz del proyecto.
+
+Comienza el proyecto por el notebook ubicado en src/notebooks/Introduccion.ipynb
