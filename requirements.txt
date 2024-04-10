@@ -9,3 +9,4 @@ jupyterlab
 statsmodels
 imbalanced-learn
 streamlit
+joblib
